@@ -143,8 +143,9 @@ The container exposes port `80` and maps it to port `8080` on the host.
 Open:
 
 ```text
-http://localhost:8080
+http://localhost:8081
 ```
+<img width="670" height="266" alt="image" src="https://github.com/user-attachments/assets/db4fa67f-087b-4969-8600-68180b184bef" />
 
 You should see the Nginx welcome page.
 
